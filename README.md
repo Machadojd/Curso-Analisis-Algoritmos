@@ -5,6 +5,7 @@ Este repositorio contiene el material del curso **Análisis de Algoritmos** que 
 ## Autor
 
 - **Nombre:** Juan David Machado Mosquera
+- **Correo de contacto:** machadojd03@gmail.com
 
 ## Estructura del repositorio
 
