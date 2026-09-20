@@ -95,6 +95,7 @@ benchmarks/resultados/
 *.csv
 *.png
 !README.md
+!laboratorios/**/graficas/*.png
 
 # Archivos temporales y logs
 *.log
